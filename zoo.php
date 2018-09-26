@@ -22,15 +22,68 @@ class zoo{
     }
 }
 class cell{
-    function open(){
-
+    public $zam;
+    public $cell;
+    function  __construct($zam,$cell){
+        $this -> zam= $zam;
+        $this->cell= $cell;
     }
-    function close(){
-
+    function zam($zam){
+        if($zam===true)
+            echo "Open";
+        else echo "Close";
+    }
+    function cell($cell){
+        if($cell===true)
+            echo "Open";
+        else echo "Close";
     }
 }
 class animal{
     public $name;
+    public $old;
+    public $sex;
+    function  __construct($name,$old,$sex){
+        $this -> name= $name;
+        $this->old= $old;
+        $this->sex= $sex;
+    }
+}
+class mammals extends animal {
+    function  __construct($name,$old,$sex){
+        $this -> name= $name;
+        $this->old= $old;
+        $this->sex= $sex;
+    }
+
+}
+class bird extends animal {
+    function  __construct($name,$old,$sex){
+        $this -> name= $name;
+        $this->old= $old;
+        $this->sex= $sex;
+    }
+}
+class fish extends animal {
+    function  __construct($name,$old,$sex){
+        $this -> name= $name;
+        $this->old= $old;
+        $this->sex= $sex;
+    }
+}
+class amphibians extends animal {
+    function  __construct($name,$old,$sex){
+        $this -> name= $name;
+        $this->old= $old;
+        $this->sex= $sex;
+    }
+}
+class reptiles extends animal {
+    function  __construct($name,$old,$sex){
+        $this -> name= $name;
+        $this->old= $old;
+        $this->sex= $sex;
+    }
 }
 
 
