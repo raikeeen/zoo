@@ -8,5 +8,9 @@
 
 class yj
 {
+    function  __construct($name,$old,$sex,$cell){
 
+
+        parent::__construct($name,$old,$sex,$cell);
+    }
 }

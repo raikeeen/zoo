@@ -6,7 +6,11 @@
  * Time: 19:49
  */
 
-class delfin
+class delfin extends fish
 {
+    function  __construct($name,$old,$sex,$cell){
 
+
+        parent::__construct($name,$old,$sex,$cell);
+    }
 }

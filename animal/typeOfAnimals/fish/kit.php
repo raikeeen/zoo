@@ -6,7 +6,11 @@
  * Time: 19:49
  */
 
-class kit
+class kit extends fish
 {
+    function  __construct($name,$old,$sex,$cell){
 
+
+        parent::__construct($name,$old,$sex,$cell);
+    }
 }

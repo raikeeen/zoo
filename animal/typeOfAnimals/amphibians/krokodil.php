@@ -6,7 +6,11 @@
  * Time: 19:47
  */
 
-class krokodil
+class krokodil extends amphibians
 {
+    function  __construct($name,$old,$sex,$cell,$feet){
 
+
+        parent::__construct($name,$old,$sex,$cell,$feet);
+    }
 }

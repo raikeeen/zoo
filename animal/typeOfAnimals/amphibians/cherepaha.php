@@ -6,7 +6,12 @@
  * Time: 19:48
  */
 
-class cherepaha
+class cherepaha extends amphibians
 {
 
+    function  __construct($name,$old,$sex,$cell,$feet){
+
+
+        parent::__construct($name,$old,$sex,$cell,$feet);
+    }
 }

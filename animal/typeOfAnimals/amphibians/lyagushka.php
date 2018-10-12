@@ -6,7 +6,11 @@
  * Time: 19:47
  */
 
-class lyagushka
+class lyagushka extends amphibians
 {
+    function  __construct($name,$old,$sex,$cell,$feet){
 
+
+        parent::__construct($name,$old,$sex,$cell,$feet);
+    }
 }

@@ -6,7 +6,11 @@
  * Time: 19:48
  */
 
-class carp
+class carp extends fish
 {
+    function  __construct($name,$old,$sex,$cell){
 
+
+        parent::__construct($name,$old,$sex,$cell);
+    }
 }

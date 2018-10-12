@@ -6,7 +6,14 @@
  * Time: 19:50
  */
 
-class zebra
+class zebra extends mammals
 {
+    function  __construct($name,$old,$sex,$cell,$feet,$tail){
 
+        parent::__construct($name,$old,$sex,$cell,$feet,$tail);
+
+    }
+    public function action(){
+        echo "тыгыдык тыгыдык";
+    }
 }

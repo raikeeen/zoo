@@ -6,7 +6,10 @@
  * Time: 19:48
  */
 
-class yastreb
+class yastreb extends bird
 {
+    function  __construct($name,$old,$sex,$cell,$feet){
 
+        parent::__construct($name,$old,$sex,$cell,$feet);
+    }
 }

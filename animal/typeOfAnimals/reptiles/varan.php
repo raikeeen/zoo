@@ -8,5 +8,9 @@
 
 class varan
 {
+    function  __construct($name,$old,$sex,$cell){
 
+
+        parent::__construct($name,$old,$sex,$cell);
+    }
 }

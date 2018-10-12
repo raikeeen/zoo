@@ -9,7 +9,7 @@ include 'cherepaha.php';
 include 'krokodil.php';
 include 'lyagushka.php';
 
-class amphibians extends animal implements actions {
+class amphibians extends animal implements actions {    //земноводные
     public $feet;
     function  __construct($name,$old,$sex,$cell,$feet){
 
@@ -17,6 +17,7 @@ class amphibians extends animal implements actions {
         parent::__construct($name,$old,$sex,$cell);
     }
     public function action(){
+        echo "We AMPHIBIANSSSSSSSSS";
 
     }
 }

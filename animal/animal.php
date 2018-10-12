@@ -5,12 +5,12 @@
  * Date: 12.10.2018
  * Time: 19:38
  */
-include 'typeOfAnimals/amphibians/amphibians.php'
+include 'typeOfAnimals/amphibians/amphibians.php';
 include 'typeOfAnimals/bird/bird.php';
 include 'typeOfAnimals/fish/fish.php';
 include 'typeOfAnimals/mamals/mamals.php';
 include 'typeOfAnimals/reptiles/reptiles.php';
-class animal   {
+class animal   {    //класс животные
     public $name;
     public $old;
     public $sex;
