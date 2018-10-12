@@ -2,6 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc963a9b-4103-4b36-80f5-3eccc485b530" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/animal/animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/amphibians/cherepaha.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/amphibians/krokodil.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/amphibians/lyagushka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/bird/aist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/bird/sokol.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/bird/yastreb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/fish/carp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/fish/delfin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/fish/kit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/mamals/jiraf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/mamals/lion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/mamals/monkey.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/mamals/wolf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/mamals/zebra.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/reptiles/varan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/typeOfAnimals/reptiles/yj.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zoo.php" beforeDir="false" afterPath="$PROJECT_DIR$/zoo.php" afterDir="false" />
     </list>
@@ -42,14 +60,67 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="56369371">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="94" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="94" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="23" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zoo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="591">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/animal/animal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/amphibians/amphibians.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -62,7 +133,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/animal/animal.php" />
         <option value="$PROJECT_DIR$/zoo.php" />
+        <option value="$PROJECT_DIR$/animal/typeOfAnimals/amphibians/amphibians.php" />
       </list>
     </option>
   </component>
@@ -75,7 +148,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="377" />
     <option name="y" value="64" />
     <option name="width" value="1400" />
@@ -88,11 +161,68 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zoo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zoo" type="462c0819:PsiDirectoryNode" />
+              <item name="animal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zoo" type="462c0819:PsiDirectoryNode" />
+              <item name="animal" type="462c0819:PsiDirectoryNode" />
+              <item name="typeOfAnimals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zoo" type="462c0819:PsiDirectoryNode" />
+              <item name="animal" type="462c0819:PsiDirectoryNode" />
+              <item name="typeOfAnimals" type="462c0819:PsiDirectoryNode" />
+              <item name="amphibians" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zoo" type="462c0819:PsiDirectoryNode" />
+              <item name="animal" type="462c0819:PsiDirectoryNode" />
+              <item name="typeOfAnimals" type="462c0819:PsiDirectoryNode" />
+              <item name="bird" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zoo" type="462c0819:PsiDirectoryNode" />
+              <item name="animal" type="462c0819:PsiDirectoryNode" />
+              <item name="typeOfAnimals" type="462c0819:PsiDirectoryNode" />
+              <item name="fish" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zoo" type="462c0819:PsiDirectoryNode" />
+              <item name="animal" type="462c0819:PsiDirectoryNode" />
+              <item name="typeOfAnimals" type="462c0819:PsiDirectoryNode" />
+              <item name="mamals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zoo" type="462c0819:PsiDirectoryNode" />
+              <item name="animal" type="462c0819:PsiDirectoryNode" />
+              <item name="typeOfAnimals" type="462c0819:PsiDirectoryNode" />
+              <item name="reptiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
@@ -121,16 +251,18 @@
       <updated>1537970653914</updated>
       <workItem from="1537970655040" duration="8311000" />
       <workItem from="1538182220852" duration="4702000" />
+      <workItem from="1539354800346" duration="1420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13013000" />
+    <option name="totallyTimeSpent" value="14433000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="377" y="64" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -158,10 +290,117 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/reptiles.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/amphibians.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/mamals.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/fish.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/bird.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html/animals/mlek/primat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="103" column="46" lean-forward="true" selection-start-line="103" selection-start-column="46" selection-end-line="103" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/specific/Lion.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html/animals/fish/fish.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html/animals/fish/karp.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/amphibians/lyagushka.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/amphibians/krokodil.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/amphibians/cherepaha.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/bird/aist.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/bird/yastreb.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/bird/sokol.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/fish/carp.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/reptiles/varan.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html/animals/bird/bird.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="1" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/reptiles/yj.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/fish/kit.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/fish/delfin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/mamals/lion.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/mamals/wolf.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/mamals/jiraf.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/mamals/monkey.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/mamals/zebra.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/zoo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="591">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/animal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/typeOfAnimals/amphibians/amphibians.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
